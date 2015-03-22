@@ -326,17 +326,17 @@ ul#nav li.current a { color: chartreuse; }
 }
 
 .photoshop {
-  	width: 60%;
+  	width: 96%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .illustrator {
-  	width: 55%;
+  	width: 88%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 90%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -346,16 +346,35 @@ ul#nav li.current a { color: chartreuse; }
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 100%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 50%;
+  	width: 85%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
-
+.php {
+       width: 89%;
+       -moz-animation: php 2s ease;
+       webkit-animation: php 2s ease;
+}
+.mysql {
+       width: 90%;
+       -moz-animation: php 2s ease;
+       webkit-animation: php 2s ease;
+}
+.joomla {
+       width: 95%;
+       -moz-animation: php 2s ease;
+       webkit-animation: php 2s ease;
+}
+.cecko {
+       width: 91%;
+       -moz-animation: php 2s ease;
+       webkit-animation: php 2s ease;
+}
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
